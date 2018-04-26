@@ -44,3 +44,5 @@ cer
 package-target
 /android/src/com/appsflyer/adobeair/lib
 /sample-project/build/*.properties
+android/.gradle
+android/build
